@@ -14,11 +14,11 @@ This project is a currency converter written in Go. It uses the FreeCurrencyAPI 
 
 1. Clone the repository:
     ```sh
-    git clone <https://github.com/noavba/go-currency.git>
+    git clone https://github.com/noavba/go-currency.git
     ```
 2. Change directory into the project folder:
     ```sh
-    cd <go-currency>
+    cd go-currency
     ```
 3. Run the project:
     ```sh
